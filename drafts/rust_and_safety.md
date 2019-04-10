@@ -1,6 +1,6 @@
 # Rust and Safety
 
-I CAN'T MEME. THIS TEXT IS DEAD. Something something dinosaurs
+I CAN'T MEME. THIS TEXT IS WILL NEVER BE FINISHED. Something something dinosaurs
 
 As I spend more and more time writing and maintaining safety critical software I started to look into alternatives to using C.
 While C does allow me to write fast and reliable software I often had to spend a lot of time chasing strange bugs
