@@ -20,7 +20,7 @@ let divisor = calculate_divisor();
 
 
 let bigint_result = bigint % divisor;
-let scalar_result = (bigint % divisor).to_u32().unwrap(); // this currently never panics
+let scalar_result = (bigint % divisor).to_u32().unwrap(); 
 // with this RFC
 let bigint_result = BigInt::from(bigint % divisor);
 let scalar_result = bigint % divisor;
